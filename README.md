@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dabons22
+- 👋 Hi, I’m Daniel Abonales BSIT Graduate in Quezon City University
 - 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning JavaMS
 
