@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Abonales BSIT Graduate in Quezon City University
 - 👀 I’m interested in Backend Programming
-- 🌱 I’m currently learning JavaMS
-
+- 🌱 I’m currently learning JavaEnvironment 
 
 <!---
 Dabons22/Dabons22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
